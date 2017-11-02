@@ -1,2 +1,3 @@
 # RadiocarbonFrance2
-Gather radiocarbon dates from French fieldwork reports
+Pybossa crowd-sourcing project to collect radiocarbon dates from French
+fieldwork reports. 
